@@ -1,0 +1,9 @@
+Realtor MN4564567, Carla Combs
+       Property 4455667 is available for $ 344555.0
+Realtor RR6655443, Jerry Smith
+       Property 2345678 is available for $ 222222.0
+Realtor AB1234567, Matthew Munez
+       Property 1234567 is SOLD
+       Property 2234567 is available for $ 222333.0
+Realtor XY9876543, Alex Yung
+       Property 9998888 is available for $ 199888.0
